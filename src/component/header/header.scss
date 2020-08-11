@@ -1,0 +1,10 @@
+@import 'src/styles/variables';
+.header {
+  height: 70px;
+  vertical-align: middle;
+  background-color: $support-blue;
+  h1 {
+    color: $white;
+    padding-top: 16px;
+  }
+}
